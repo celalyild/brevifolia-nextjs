@@ -12,8 +12,8 @@ sections:
   new_doc_ext: test1.md
   templates:
   - deneme
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: public/static
+public_path: public/static
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
